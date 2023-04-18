@@ -1,6 +1,7 @@
 # chat_bot
 
-A new Flutter project.
+A flutter app which incorporates the openAI API i.e. ChatGPT and DallE
+
 
 ## Getting Started
 
